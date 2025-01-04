@@ -4,7 +4,7 @@
 
 However, creating it is a pain in the brain, so I hope you'll enjoy it! Star the repository if you like it and feel free to contribute to the project 🌟.
 
-Feel free to give it a try at [The Maze Game](https://vinsmokesomya.github.io/The-Maze-Game/)!
+## Feel free to give it a try at [The Maze Game](https://vinsmokesomya.github.io/The-Maze-Game/)!
 
 ## Game UI
 
